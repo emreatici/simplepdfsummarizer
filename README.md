@@ -1,4 +1,4 @@
-# simplepdfsummarizer
+# Simple PDF Summarizer
 A simple jupyter notebook for summarizing online PDF documents with chat-gpt.
 
 This Python script is designed to summarize a research paper provided in PDF format. The code leverages the OpenAI GPT-3.5-turbo model to generate summaries. Here's a step-by-step explanation of the code:
